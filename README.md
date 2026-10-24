@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Automated-Document-Publishing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Document-Publishing?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Automated-Document-Publishing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Document-Publishing?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Document-Publishing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Automated-Document-Publishing?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Document-Publishing/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Automated-Document-Publishing?style=flat-square&color=blue" alt="GitHub issues" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
@@ -61,31 +61,31 @@ The sector is **moderately fragmented**: core layout rendering and desktop compo
 
 Sorted in descending order by GitHub stargazers count:
 
-- **[Typst](https://github.com/typst/typst)** [![GitHub Stars](https://img.shields.io/github/stars/typst/typst?style=social&color=white)](https://github.com/typst/typst/stargazers)  
+- **[Typst](https://github.com/typst/typst)** [![GitHub_Stars](https://img.shields.io/github/stars/typst/typst?style=social&color=white)](https://github.com/typst/typst/stargazers)  
   **A new markup-based typesetting system that is powerful and easy to learn.** Written in Rust. Delivers instantaneous incremental compilation, expressive scripting, built-in layout functions, and high-quality mathematical typesetting. An exceptional, modern alternative to LaTeX for programmatic PDF publishing and report generation. ⚡
 
-- **[Pandoc](https://github.com/jgm/pandoc)** [![GitHub Stars](https://img.shields.io/github/stars/jgm/pandoc?style=social&color=white)](https://github.com/jgm/pandoc/stargazers)  
+- **[Pandoc](https://github.com/jgm/pandoc)** [![GitHub_Stars](https://img.shields.io/github/stars/jgm/pandoc?style=social&color=white)](https://github.com/jgm/pandoc/stargazers)  
   **The universal document converter.** Written in Haskell. Converts between Markdown, HTML, LaTeX, DocBook, EPUB, PDF, and dozens of other formats. Operates as the headless content processing and AST transformation spine behind modern publishing toolchains. 🌐
 
-- **[Marp](https://github.com/marp-team/marp)** [![GitHub Stars](https://img.shields.io/github/marp-team/marp?style=social&color=white)](https://github.com/marp-team/marp/stargazers)  
+- **[Marp](https://github.com/marp-team/marp)** [![GitHub_Stars](https://img.shields.io/github/marp-team/marp?style=social&color=white)](https://github.com/marp-team/marp/stargazers)  
   **Markdown Presentation Ecosystem.** Converts plain Markdown into slide decks, multi-page PDFs, and HTML documents using CSS themes. Features headless CLI automation (`@marp-team/marp-cli`) for CI/CD document rendering. 📽️
 
-- **[PDFKit](https://github.com/foliojs/pdfkit)** [![GitHub Stars](https://img.shields.io/github/stars/foliojs/pdfkit?style=social&color=white)](https://github.com/foliojs/pdfkit/stargazers)  
+- **[PDFKit](https://github.com/foliojs/pdfkit)** [![GitHub_Stars](https://img.shields.io/github/stars/foliojs/pdfkit?style=social&color=white)](https://github.com/foliojs/pdfkit/stargazers)  
   **A JavaScript PDF generation library for Node and the browser.** Provides low-level vector graphics, text layout with line wrapping, font embedding, image embedding, and complex multi-page document creation programmatically via code. 📄
 
-- **[WeasyPrint](https://github.com/Kozea/WeasyPrint)** [![GitHub Stars](https://img.shields.io/github/stars/Kozea/WeasyPrint?style=social&color=white)](https://github.com/Kozea/WeasyPrint/stargazers)  
+- **[WeasyPrint](https://github.com/Kozea/WeasyPrint)** [![GitHub_Stars](https://img.shields.io/github/stars/Kozea/WeasyPrint?style=social&color=white)](https://github.com/Kozea/WeasyPrint/stargazers)  
   **The HTML/CSS-to-PDF rendering engine.** Implements web standards and CSS Paged Media module specifications (page breaks, page numbers, margins, headers/footers) to produce print-ready PDFs without requiring a headless browser. 🖨️
 
-- **[Asciidoctor](https://github.com/asciidoctor/asciidoctor)** [![GitHub Stars](https://img.shields.io/github/stars/asciidoctor/asciidoctor?style=social&color=white)](https://github.com/asciidoctor/asciidoctor/stargazers)  
+- **[Asciidoctor](https://github.com/asciidoctor/asciidoctor)** [![GitHub_Stars](https://img.shields.io/github/stars/asciidoctor/asciidoctor?style=social&color=white)](https://github.com/asciidoctor/asciidoctor/stargazers)  
   **A fast, open-source text processor and publishing toolchain for AsciiDoc.** Translates structured content into HTML5, DocBook, and PDF (via Asciidoctor PDF). Ideal for technical books, multi-chapter manuals, and API documentation suites. 📖
 
-- **[DesignCraft](https://github.com/storytold/designcraft)** [![GitHub Stars](https://img.shields.io/github/stars/storytold/designcraft?style=social&color=white)](https://github.com/storytold/designcraft/stargazers)  
+- **[DesignCraft](https://github.com/storytold/designcraft)** [![GitHub_Stars](https://img.shields.io/github/stars/storytold/designcraft?style=social&color=white)](https://github.com/storytold/designcraft/stargazers)  
   **The clean-room InDesign alternative written in Rust.** **MIT OR Apache-2.0** licensed. Provides a complete page-layout interface with spreads, text frames, parent pages, layers, and typographic controls. **Key differentiator**: native **IDML import and export** interoperability plus an integrated **Model Context Protocol (MCP) server** and JSON CLI—enabling AI agents to automate and compose publication layouts programmatically. 🎨🤖
 
-- **[Pressbooks](https://github.com/pressbooks/pressbooks)** [![GitHub Stars](https://img.shields.io/github/stars/pressbooks/pressbooks?style=social&color=white)](https://github.com/pressbooks/pressbooks/stargazers)  
+- **[Pressbooks](https://github.com/pressbooks/pressbooks)** [![GitHub_Stars](https://img.shields.io/github/stars/pressbooks/pressbooks?style=social&color=white)](https://github.com/pressbooks/pressbooks/stargazers)  
   **Open-source book publishing content management platform.** Built on top of WordPress multisite, allowing educational institutions and publishers to author, manage, and export books to EPUB, MOBI, and print-ready PDF formats. 📚
 
-- **[DITA Open Toolkit (DITA-OT)](https://github.com/dita-ot/dita-ot)** [![GitHub Stars](https://img.shields.io/github/stars/dita-ot/dita-ot)](https://github.com/dita-ot/dita-ot/stargazers)  
+- **[DITA Open Toolkit (DITA-OT)](https://github.com/dita-ot/dita-ot)** [![GitHub_Stars](https://img.shields.io/github/stars/dita-ot/dita-ot)](https://github.com/dita-ot/dita-ot/stargazers)  
   **Open-source publishing engine for Darwin Information Typing Architecture (DITA) content.** Transforms XML topic-based documentation into PDF, HTML5, Eclipse Help, and JavaHelp for enterprise technical publishing. ⚙️
 
 ### 🧩 Specialized Workflow & Rendering Primitives
