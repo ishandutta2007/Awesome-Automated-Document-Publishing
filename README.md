@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -40,27 +42,33 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global automated document publishing and document generation market is valued at approximately **$4.4B to $4.7B in 2026** (scaling past $17B+ when accounting for broader enterprise intelligent document automation and IDP suites), expanding at a 9.2%–9.5% CAGR. The sector is **moderately fragmented**: core layout rendering and desktop composition pipelines remain heavily concentrated around Adobe's foundational engines (InDesign / InDesign Server), while multichannel database publishing, dynamic templating, and enterprise CCMS workflows are distributed across specialized mid-market suites and emerging cloud/open-source automation tools.
+
+
+
 ## SaaS/Hosted Platforms
 
 
 
-| Product | Description | Pricing | Free Tier Limit |
+| Product | Scale (Revenue / Valuation) | Description | Pricing | Free Tier Limit |
 
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 
-| **[Adobe InDesign Server](https://www.adobe.com/products/indesignserver.html)** | Server-based layout automation engine for high-volume, data-driven publishing. | **Premium**: **$13,500/year**; **Limited**: $5,000/year; **Development**: $2,100/year . | **Free trial** available for development/testing . No permanent free tier. |
+| **[Adobe InDesign Server](https://www.adobe.com/products/indesignserver.html)** | **~$25.9B revenue / ~$100B market cap** (Adobe Inc.) | Server-based layout automation engine for high-volume, data-driven publishing. | Starts at **$2,100/year** (Development edition); Limited edition at **$5,000/year**; Premium at **$13,500/year**. | **90-day free trial** for development & evaluation via prerelease/sales; watermarked output, no permanent free tier. |
 
-| **[Quark Publishing Platform](https://www.quark.com/)** | Modular, metadata-driven omnichannel publishing with SaaS, private cloud, and multi-tenant options. | **Quote-only**. Microsoft Marketplace lists placeholder pricing ($1.00/year) indicating sales-led procurement . | No public free tier. Demo via sales. |
+| **[Quark Publishing Platform](https://www.quark.com/)** | **~$68M estimated revenue** (Quark Software Inc.) | Modular, metadata-driven omnichannel publishing with SaaS, private cloud, and multi-tenant options. | Enterprise deployment custom quote (standalone modules like Docurated start at **$216/user/year** with 5-user min, QuarkXPress at **$279/year**). | **No free tier or public self-serve trial**; guided sales demo available on request. |
 
-| **[Typefi Publish](https://www.typefi.com/)** | Automated XML-based publishing built on Adobe InDesign Server, for single-source multi-format output. | **Quote-only**. Monthly subscription via **Typefi Cloud** based on user count and project needs . | No public free tier. Trial available via sales. |
+| **[WoodWing Studio](https://www.woodwing.com/)** | **~€70M+ combined group revenue** (WoodWing / Omnidocs Group) | Content creation and workflow platform for publishers, agencies, and marketing teams. | Starter tier listed from **$99/month/user** (minimum contract terms apply); Advanced & Ultimate tiers via sales consultation. | **No permanent free tier and no self-serve trial**; customized proof-of-concept demo available upon request. |
 
-| **[WoodWing Studio](https://www.woodwing.com/)** | Content creation and workflow platform for publishers, agencies, and marketing teams. | **Quote-only**. Starting price listed at **$99/month/user** on some marketplaces . | No permanent free tier. Demo available. |
+| **[CHILI Publish](https://www.chili-publish.com/)** | **~$7M–$8M ARR / ~€20M funding** (CHILI publish / GraFx) | Cloud-based document automation and templating platform for marketing collateral and catalogs. | Starts at **$875/month** (Launch tier); Transform tier at **$2,150/month**; Scale tier at **$6,550/month**. | **14-day free trial** of live GraFx discovery environment with full Design Systems access; no permanent free tier. |
 
-| **[vjoon K4](https://www.vjoon.com/)** | Publishing system tightly integrated with Adobe InDesign/InCopy for magazine and corporate publishing. | **Quote-only**. Starting price listed at **$99/month/user** on some directories ; official pricing requires sales contact . | **No free version and no free trial** per vendor listings . |
+| **[Typefi Publish](https://www.typefi.com/)** | **~$6.9M estimated revenue** (Typefi Systems) | Automated XML-based publishing built on Adobe InDesign Server, for single-source multi-format output. | Typefi Cloud Teams starts at **$999/month** (up to 1,000 pages/month and 2 users); Enterprise tier quote-based. | **No permanent free tier**; 14-to-30-day scoped trial or guided pilot via sales evaluation. |
 
-| **[CHILI Publish](https://www.chili-publish.com/)** | Cloud-based document automation and templating platform for marketing collateral and catalogs. | **Launch**: **$875/month**. **Transform**: **$2,150/month**. **Scale**: **$6,550/month**. **Unlimited**: quote-only . | **15-day free trial** available . No permanent free tier. |
+| **[priint:suite](https://www.priint.com/)** | **~$5.5M estimated ARR** (WERK II / priint Group) | Publishing automation suite integrating with InDesign for catalogs, labels, and packaging. | Modular enterprise deployment from **€4,640 entry package / starting base license**; ongoing support and connectors quoted per project. | **No free tier or public trial**; live interactive sandbox demo provided upon sales qualification. |
 
-| **[priint:suite](https://www.priint.com/)** | Publishing automation suite integrating with InDesign for catalogs, labels, and packaging. | **Quote-only**. Capterra lists a one-time starting price of **€4,640** for a related product . | No public free tier. Demo via sales. |
+| **[vjoon K4](https://www.vjoon.com/)** | **~$2.4M estimated ARR** (vjoon GmbH) | Publishing system tightly integrated with Adobe InDesign/InCopy for magazine and corporate publishing. | Enterprise license from **$99/month/seat** base directory rate (cloud hosting & integration packages custom quoted). | **No free tier and no free trial** available per vendor policy; scheduled demo only. |
 
 
 
